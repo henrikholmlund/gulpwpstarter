@@ -6,13 +6,9 @@ Two branches are availble, one that uses [underscores](http://underscores.me/) w
 If you don't know what gulp is go [here](https://gulpjs.com/) to get started.
 
 Gulp commands:
-
-````shell
- npm install ```
-After `npm install`
-just run `gulp`
+After `$ npm install`
+just run `$ gulp`
 to get started
 
 If you want to build and compress stuff into a neat folder run:
-`gulp build`
-````
+`$ gulp build`
